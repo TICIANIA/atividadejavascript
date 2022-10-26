@@ -1,0 +1,28 @@
+*{ margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+    text-decoration: none;}
+
+body{
+    background: url(screen-4.webp);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-blend-mode: luminosity;
+}
+
+.nada{
+    text-align: center;
+    color:#ffffff;
+    font-size: 40px;    
+    width:200px;
+    height:50px;
+    border:solid 1px;
+  
+ 
+
+}
